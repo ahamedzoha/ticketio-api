@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/home/thunderblitz/Personal/ticketio-api/src/logs/error/.f598017540a38f4e876f38b77b3dc4f785419133-audit.json",
+    "files": [
+        {
+            "date": 1660813373176,
+            "name": "/home/thunderblitz/Personal/ticketio-api/src/logs/error/2022-08-18.log",
+            "hash": "fa9438f46eaae3d089e72697907b2a937f8023e9ad84973a2f940a259f141205"
+        }
+    ],
+    "hashType": "sha256"
+}

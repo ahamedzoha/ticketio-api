@@ -1,0 +1,48 @@
+2022-08-18 15:02:53 error: uncaughtException: Cannot find module '/home/thunderblitz/Personal/ticketio-api/node_modules/bcrypt/lib/binding/napi-v3/bcrypt_lib.node'
+Require stack:
+- /home/thunderblitz/Personal/ticketio-api/node_modules/bcrypt/bcrypt.js
+- /home/thunderblitz/Personal/ticketio-api/src/services/auth.service.ts
+- /home/thunderblitz/Personal/ticketio-api/src/controllers/auth.controller.ts
+- /home/thunderblitz/Personal/ticketio-api/src/routes/auth.route.ts
+- /home/thunderblitz/Personal/ticketio-api/src/server.ts
+Error: Cannot find module '/home/thunderblitz/Personal/ticketio-api/node_modules/bcrypt/lib/binding/napi-v3/bcrypt_lib.node'
+Require stack:
+- /home/thunderblitz/Personal/ticketio-api/node_modules/bcrypt/bcrypt.js
+- /home/thunderblitz/Personal/ticketio-api/src/services/auth.service.ts
+- /home/thunderblitz/Personal/ticketio-api/src/controllers/auth.controller.ts
+- /home/thunderblitz/Personal/ticketio-api/src/routes/auth.route.ts
+- /home/thunderblitz/Personal/ticketio-api/src/server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (/home/thunderblitz/Personal/ticketio-api/node_modules/@cspotcode/source-map-support/source-map-support.js:811:30)
+    at Function.Module._resolveFilename (/home/thunderblitz/Personal/ticketio-api/node_modules/tsconfig-paths/src/register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/thunderblitz/Personal/ticketio-api/node_modules/bcrypt/bcrypt.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .js] (/home/thunderblitz/Personal/ticketio-api/node_modules/ts-node/src/index.ts:1608:43)
+2022-08-18 15:03:11 error: uncaughtException: Cannot find module '/home/thunderblitz/Personal/ticketio-api/node_modules/bcrypt/lib/binding/napi-v3/bcrypt_lib.node'
+Require stack:
+- /home/thunderblitz/Personal/ticketio-api/node_modules/bcrypt/bcrypt.js
+- /home/thunderblitz/Personal/ticketio-api/src/services/auth.service.ts
+- /home/thunderblitz/Personal/ticketio-api/src/controllers/auth.controller.ts
+- /home/thunderblitz/Personal/ticketio-api/src/routes/auth.route.ts
+- /home/thunderblitz/Personal/ticketio-api/src/server.ts
+Error: Cannot find module '/home/thunderblitz/Personal/ticketio-api/node_modules/bcrypt/lib/binding/napi-v3/bcrypt_lib.node'
+Require stack:
+- /home/thunderblitz/Personal/ticketio-api/node_modules/bcrypt/bcrypt.js
+- /home/thunderblitz/Personal/ticketio-api/src/services/auth.service.ts
+- /home/thunderblitz/Personal/ticketio-api/src/controllers/auth.controller.ts
+- /home/thunderblitz/Personal/ticketio-api/src/routes/auth.route.ts
+- /home/thunderblitz/Personal/ticketio-api/src/server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (/home/thunderblitz/Personal/ticketio-api/node_modules/@cspotcode/source-map-support/source-map-support.js:811:30)
+    at Function.Module._resolveFilename (/home/thunderblitz/Personal/ticketio-api/node_modules/tsconfig-paths/src/register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/home/thunderblitz/Personal/ticketio-api/node_modules/bcrypt/bcrypt.js:6:16)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Object.require.extensions.<computed> [as .js] (/home/thunderblitz/Personal/ticketio-api/node_modules/ts-node/src/index.ts:1608:43)
